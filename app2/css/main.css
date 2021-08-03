@@ -1,0 +1,177 @@
+*{
+	margin : 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	background: #efefef;
+}
+
+main{
+	width:70%;
+	height: auto;
+	margin:auto;
+	background: #fff;
+	padding: 50px;
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	background-image: url(../img/fon.jpg);
+	background-size: cover;
+	box-shadow: 0 0 25px 2px rgba(22,22,29,1);
+}
+
+.h1{
+	color:#afafe4;
+}
+
+body {
+	background: #7ca9c4;
+}
+
+
+.photo{
+	width: calc(50% - 40px);
+	height: calc((35vw - 40px) / 16 * 9); 
+	margin: 20px;
+	background: #16161d;
+	box-shadow: 0 0 25px 2px rgba(22,22,29,1);
+	border-radius:3%;
+	transition: all 0.7s ease-in-out;
+}
+
+.photo:hover{
+	transform:scale(1.1);
+	transform:rotate(8deg);
+}
+.h1 {
+	font-size: 48px;
+	text-align: center;
+	width: 100%;
+}
+
+.photo1 {
+	background-image: url(../img/img1.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+.photo2 {
+	background-image: url(../img/img2.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+.photo3 {
+	background-image: url(../img/img3.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+.photo4 {
+	background-image: url(../img/img4.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+.photo5 {
+	background-image: url(../img/img5.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+
+.photo6 {
+	background-image: url(../img/img6.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+
+.photo7 {
+	background-image: url(../img/img7.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+.photo8 {
+	background-image: url(../img/img8.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+.photo9 {
+	background-image: url(../img/img9.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+.photo10 {
+	background-image: url(../img/img10.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+.photo11{
+	background-image: url(../img/img11.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+.photo12 {
+	background-image: url(../img/img12.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+.photo13 {
+	background-image: url(../img/img13.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+.photo14 {
+	background-image: url(../img/img14.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+.photo15 {
+	background-image: url(../img/img15.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+.photo16 {
+	background-image: url(../img/img16.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+.photo17 {
+	background-image: url(../img/img17.jpg);
+	background-position:center;
+	background-size: cover;
+}
+
+
+.photo18 {
+	background-image: url(../img/img18.jpg);
+	background-position:center;
+	background-size: cover;
+}
